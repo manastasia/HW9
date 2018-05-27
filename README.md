@@ -11,7 +11,7 @@
 ## Задание 3
 Все упоминания города Новгорода я нашла с помощью регулярного выражения "Нов(.?)город([а-я]?)", использовав функцию "Match case". Всего было найдено 59 вхождений.
 ![](https://github.com/manastasia/HW9/blob/master/2.png)
-![](https://github.com/manastasia/HW9/blob/master/2.2.png)
+![](https://github.com/manastasia/HW9/blob/master/2.2.jpg)
 
 
 ## Бонусное задание
